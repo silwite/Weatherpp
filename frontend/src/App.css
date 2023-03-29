@@ -1,0 +1,21 @@
+*{
+ text-align: center;
+
+  background-color: beige;
+}
+.column{
+margin-top: 10px;
+
+padding: 10px;
+}
+
+.main{
+  margin-top:50px;
+}
+.subtitle{
+  color: brown;
+  margin-bottom: 20px;
+}
+.btn{
+  margin-left: 5px;
+}
